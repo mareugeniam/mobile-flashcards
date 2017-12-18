@@ -1,7 +1,7 @@
 # mobile-flashcards
 
 Mobile application (tested only in Android) that allows users to study collections of flashcards. 
-The app allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
+The app allows users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks.
 
 ## Getting Started
 
