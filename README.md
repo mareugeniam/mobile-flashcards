@@ -5,7 +5,7 @@ The app allow users to create different categories of flashcards called "decks",
 
 ## Getting Started
 
-Clone or download the this repository.
+* clone or download the repository from [https://github.com/mareugeniam/mobile-flashcards]
 
 ### Prerequisites
 
